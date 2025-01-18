@@ -1,1 +1,3 @@
-# This repository includes simple scripts that helps me automate tasks.
+# Python Automation
+
+Simple scripts for automating repetitive tasks
